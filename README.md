@@ -1,7 +1,7 @@
 # Fake commerce APIs
 
-- `/new_arrivals`
-- `/recommendations/user`
-- `/recommendations/product`
-- `/recommendations/others`
-- `/reviews'
+- https://fake-commerce-api.jplhomer.workers.dev/new_arrivals
+- https://fake-commerce-api.jplhomer.workers.dev/recommendations/user
+- https://fake-commerce-api.jplhomer.workers.dev/recommendations/product
+- https://fake-commerce-api.jplhomer.workers.dev/recommendations/others
+- https://fake-commerce-api.jplhomer.workers.dev/reviews
