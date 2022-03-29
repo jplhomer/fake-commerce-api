@@ -32,7 +32,10 @@ async function getProducts(request) {
 async function getReviews(request) {
   await sleep();
 
-  return respond(shuffle(REVIEWS_STUB).slice(0, 3));
+  return respond(shuffle(REVIEWS_STUB).slice(0, 3).map(review => ({
+    ...review,
+    rating: Math.ceil(Math.random() * 5)
+  })));
 }
 
 async function getVideos(request) {
