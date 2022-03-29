@@ -5,3 +5,4 @@
 - https://fake-commerce-api.jplhomer.workers.dev/recommendations/product
 - https://fake-commerce-api.jplhomer.workers.dev/recommendations/others
 - https://fake-commerce-api.jplhomer.workers.dev/reviews
+- https://fake-commerce-api.jplhomer.workers.dev/videos
